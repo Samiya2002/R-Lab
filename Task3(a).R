@@ -1,0 +1,12 @@
+print(seq(32,44))
+print(sum(41:68))
+print(median(1:10))
+print(max(1:10))
+print(sqrt(1:10))
+print(min(50: 48))
+print(ceiling(55.5))
+print(floor(55.5))
+str="SAMIYA"
+print(tolower(str))
+print(toupper(str))
+print(paste("Hello",str,"SADIQ"))

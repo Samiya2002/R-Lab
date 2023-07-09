@@ -1,0 +1,7 @@
+v=c(1,2,3,4,5)
+print("Sum")
+print(sum(v))
+print("Mean")
+print(mean(v))
+print("Product")
+print(prod(v))
